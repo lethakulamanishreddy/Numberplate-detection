@@ -5,7 +5,7 @@ This repository contains an OpenCV project made with python
 ##Requirements\
 --->Opencv\
 --->Numpy\
---->Imutils\
+--->Imutils
 
 In this project we will find number plate of a veichle.
 
