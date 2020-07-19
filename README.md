@@ -3,7 +3,7 @@
 This repository contains an OpenCV project made with python
 
 ##Requirements
---->Opencv
+--->Opencv\
 --->Numpy
 --->Imutils
 
